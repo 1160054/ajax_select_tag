@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{親子関係のあるセレクトボックスをつくる}
   spec.description   = %q{親子関係のある複数のセレクトボックスを、ajaxで動的にオプションを変更する}
-  spec.homepage      = "http://s1160054.github.io/"
+  spec.homepage      = "https://www.facebook.com/deraono"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
